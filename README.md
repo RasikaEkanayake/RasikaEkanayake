@@ -68,7 +68,5 @@
 ## Reach me 📫:
 [![Gmail Badge](https://img.shields.io/badge/-rasikaekanayaka0000@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](mailto:rasikaekanayaka0000@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-rasiya_official-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.instagram.com/rasiya_official/) 
-[![Linkedin Badge](https://img.shields.io/badge/-asthiseta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rasika-ekanayaka-b763701a1)](https://www.linkedin.com/in/rasika-ekanayaka-b763701a1)
-[![DevianArt Badge](https://img.shields.io/badge/-Asthi21-2F4B2F?style=flat-square&logo=DeviantArt&logoColor=white&link=https://www.deviantart.com/asthi21)](https://www.deviantart.com/asthi21)
 
 <h5 align="center">Made With ❤️ by Me </h5>
