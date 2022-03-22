@@ -55,7 +55,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RasikaEkanayake&theme=github_dark)
 
 ![RasikaEkanayake's github stats](https://github-readme-stats.vercel.app/api?username=RasikaEkanayake&show_icons=true&theme=github_dark)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight_duo" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RasikaEkanayake&theme=tokyonight_duo" alt="mystreak"/>
 
 <!--![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=github_dark&layout=compact)-->
 
