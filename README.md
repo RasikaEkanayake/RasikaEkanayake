@@ -69,4 +69,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-rasikaekanayaka0000@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:rasikaekanayaka0000@gmail.com)](mailto:rasikaekanayaka0000@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-rasiya_official-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.instagram.com/rasiya_official/) 
 
-<h5 align="center">Made With ❤️ by Me </h5>
+<h5 align="center">Made by Me </h5>
