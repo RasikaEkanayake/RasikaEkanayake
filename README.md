@@ -48,3 +48,27 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasikaekanayake&show_icons=true&locale=en&layout=compact" alt="rasikaekanayake" /></p>
+
+## By the way here are some of my statistics 🚀
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkuraDiary&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkuraDiary&theme=github_dark)
+
+![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=AkuraDiary&show_icons=true&theme=github_dark)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight_duo" alt="mystreak"/>
+
+<!--![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=github_dark&layout=compact)-->
+
+[![AkuraDiary's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AkuraDiary&theme=react-dark)](AkuraDiary)
+
+<!--trap-->
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+## Reach me 📫:
+[![Gmail Badge](https://img.shields.io/badge/-rasikaekanayaka0000@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](mailto:rasikaekanayaka0000@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-rasiya_official-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.instagram.com/rasiya_official/) 
+[![Linkedin Badge](https://img.shields.io/badge/-asthiseta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rasika-ekanayaka-b763701a1)](https://www.linkedin.com/in/rasika-ekanayaka-b763701a1)
+[![DevianArt Badge](https://img.shields.io/badge/-Asthi21-2F4B2F?style=flat-square&logo=DeviantArt&logoColor=white&link=https://www.deviantart.com/asthi21)](https://www.deviantart.com/asthi21)
+
+<h5 align="center">Made With ❤️ by Me </h5>
