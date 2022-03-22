@@ -51,8 +51,8 @@
 
 ## By the way here are some of my statistics 🚀
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkuraDiary&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkuraDiary&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RasikaEkanayake&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RasikaEkanayake&theme=github_dark)
 
 ![RasikaEkanayake's github stats](https://github-readme-stats.vercel.app/api?username=RasikaEkanayake&show_icons=true&theme=github_dark)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight_duo" alt="mystreak"/>
