@@ -48,10 +48,10 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasikaekanayake&show_icons=true&locale=en&layout=compact" alt="rasikaekanayake" /></p>
-
+<!--
 ## By the way here are some of my statistics 🚀
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RasikaEkanayake&theme=github_dark)
+<!--![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RasikaEkanayake&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RasikaEkanayake&theme=github_dark)
 
 ![RasikaEkanayake's github stats](https://github-readme-stats.vercel.app/api?username=RasikaEkanayake&show_icons=true&theme=github_dark)
@@ -59,7 +59,7 @@
 
 <!--![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=github_dark&layout=compact)-->
 
-[![RasikaEkanayake's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RasikaEkanayake&theme=react-dark)](AkuraDiary)
+[![RasikaEkanayake's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RasikaEkanayake&theme=react-dark)](AkuraDiary) -->
 
 <!--trap-->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
